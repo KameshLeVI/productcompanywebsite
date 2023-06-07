@@ -355,6 +355,8 @@ home.html## HOME CODE:
 ## OUTPUT:
 ![image](https://github.com/KameshLeVI/productcompanywebsite/assets/120780633/2b4e261f-2603-4d87-bd2c-5dd16a82d3c6)
 ![image](https://github.com/KameshLeVI/productcompanywebsite/assets/120780633/d552c9eb-b6a6-43aa-b0ca-7f56be10812a)
+![243626855-b099fc9c-4d7f-492e-b1bc-e86ac68f9986](https://github.com/KameshLeVI/productcompanywebsite/assets/120780633/71533676-3535-4d1b-ad25-081e25a7030a)
+
 
 
 ### Home Page:
